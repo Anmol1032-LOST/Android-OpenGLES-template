@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BrokenGlassOpenGLES" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="backgroundColor">@color/black</item>
+    </style>
+
+    <style name="Theme.BrokenGlassOpenGLES" parent="Base.Theme.BrokenGlassOpenGLES" />
+</resources>
